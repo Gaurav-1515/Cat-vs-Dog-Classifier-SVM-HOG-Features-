@@ -42,6 +42,6 @@ Save predictions to a .csv file (image name → predicted label).
 ```
 
 📊 Output:
-<img width="1475" height="626" alt="Image" src="https://github.com/user-attachments/assets/b7ba0426-bb23-4b43-a761-9b346b13ed94" />
-<img width="504" height="1128" alt="Image" src="https://github.com/user-attachments/assets/7c4b4ee5-da59-44cc-9aae-6dae973805a4" />
+<img width="1475" height="626" alt="Image" src="https://github.com/user-attachments/assets/104354b3-4bc0-47c3-b268-2c52cf2942ca" />
+<img width="504" height="1128" alt="Image" src="https://github.com/user-attachments/assets/c82d1bc9-6273-41a8-993e-646cce55ae33" />
 
